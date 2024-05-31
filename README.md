@@ -1,4 +1,4 @@
-# Caital-rationing-is-present
+# Capital-rationing
 	Periods 	Unit Sales 	234450			Periods 	Unit Sales 	151170	
 	1	33503		0.1429		1	21602		0.1429
 	2	57417		0.2449		2	37022		0.2449
